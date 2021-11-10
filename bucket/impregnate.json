@@ -1,10 +1,10 @@
 {
 	"home": "https://github.com/Cumcord/Impregnate",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"description": "A standalone installer for Cumcord.",
 	"license": "Apache-2.0",
-	"url": "https://github.com/Cumcord/Impregnate/releases/download/v1.2.1/impregnate.exe",
-	"hash": "92200d9f966a4c02c37acf0d9234e3d13f79d8e7cdc1f47829ffd90a8b966e03",
+	"url": "https://github.com/Cumcord/Impregnate/releases/download/v1.2.2/impregnate.exe",
+	"hash": "AE00DB169C649428DA2BC7BAEA1ACAAA0290C95FB1DE9852F3CB9C63A5E4B337",
 	"bin": "impregnate.exe",
 	"checkver": {
 		"url": "https://github.com/Cumcord/Impregnate/releases/latest",
